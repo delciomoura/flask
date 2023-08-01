@@ -1,0 +1,2 @@
+# Arquivos e pastas específicas a serem ignorados pelo Git
+venv/
