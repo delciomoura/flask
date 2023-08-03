@@ -2,3 +2,66 @@
     width: 250px;
     height: 150px;
 }
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+nav {
+    background-color: #333;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px;
+}
+
+nav li {
+    margin-left: 20px;
+}
+
+nav li:last-child {
+    margin-left: 0;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+
+nav a:hover {
+    background-color: #555;
+}
+
+h2 {
+    text-align: center;
+    margin: 20px 0;
+    color: #333;
+}
+
+p {
+    text-align: center;
+    margin-bottom: 20px;
+    line-height: 1.6;
+}
+
+.imgquadrada {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid #333;
+}
+
+h6 {
+    text-align: center;
+    color: #888;
+}
