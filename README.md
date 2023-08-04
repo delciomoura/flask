@@ -10,7 +10,7 @@ Siga as instruções abaixo para executar o projeto em sua máquina local:
 
 2. Clone este repositório em seu computador usando o seguinte comando:
 ```
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/delciomoura/flask.git
 ```
 3. Crie um ambiente virtual para isolar as dependências do projeto:
 ```
